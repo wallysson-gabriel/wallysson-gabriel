@@ -1,6 +1,6 @@
 ## ✨Olá sou Wallysson Gabriel ✨
 
-- 🎓 2º ano do Ensino médio
+- 🎓 3º ano do Ensino médio
 - 🌱 Estudando Javascript.
 - 😄 Pronome: ele/dele
 
