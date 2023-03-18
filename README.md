@@ -2,7 +2,7 @@
 
 - 🎓 3º ano do Ensino médio
 - 🌱 Estudando Java.
-- 😄 Pronome: ele/dele
+- 18y
 
 <div align="center">
   <a href="https://github.com/wallysson-gabriel">
