@@ -1,5 +1,5 @@
 <h1>Bio:</h1>
-<hr>
+
 <ul>
   <li>🌀 Nome e Idade: Wallysson Gabriel, 18</li>
   <li>🌐 Nacionalidade: Brasileiro</li>
