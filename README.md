@@ -7,6 +7,3 @@
   <li>📗 Buscando aprender mais sobre desenvolvimento web</li>
 </ul>
 
-<h1>Commits:</h1>
-
-  ![Snake animation](https://github.com/wallysson-gabriel/wallysson-gabriel/blob/output/github-contribution-grid-snake.svg)
